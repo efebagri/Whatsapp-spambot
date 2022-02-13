@@ -1,0 +1,13 @@
+{
+    "name": "whatsapp-spambot",
+    "version": "0.0.1",
+    "description": "",
+    "scripts": {
+        "test": "node index.js"
+    },
+    "author": "TheLinuxRaze",
+    "license": "ISC",
+    "dependencies": {
+        "puppeteer": "^5.5.0"
+    }
+}

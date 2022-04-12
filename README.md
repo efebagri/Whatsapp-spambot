@@ -20,3 +20,4 @@ This is simple Whatsapp spambot written in JavaScipt.
 * Razetro
 ### 🚧 Used Open-Source projects
 * [puppeteer](https://github.com/puppeteer/puppeteer)
+* [dotenv](https://www.npmjs.com/package/dotenv)

@@ -17,7 +17,7 @@ This is simple Whatsapp spambot written in JavaScipt.
 
 # 🙏 Thanks to:
 ### 🧑🏻‍🤝‍🧑🏻 Contributors
-* Razetro
+* EfeBagri
 ### 🚧 Used Open-Source projects
 * [puppeteer](https://github.com/puppeteer/puppeteer)
 * [dotenv](https://www.npmjs.com/package/dotenv)

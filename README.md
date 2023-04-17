@@ -6,7 +6,7 @@
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/npm-v.16.13.2-informational?style=flat&logo=npm&logoColor=white&color=6aa6f8)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=razetro.whatsapp-spambot)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=efebagri.whatsapp-spambot)
 
 # 💾 Whatsapp-spambot
 This is simple Whatsapp spambot written in JavaScipt.

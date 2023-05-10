@@ -11,6 +11,12 @@
 # 💾 Whatsapp-spambot
 This is simple Whatsapp spambot written in JavaScipt.
 
+# 📑 Features
+| Features        | Supported |
+| ------------- | -----:|
+| NodeJS package | ✅ |
+| Tampermonkey (Coming soon) | ❌ |
+
 # Getting Started
 ### Requirements
 * [**Node.js 16.13.2+**](https://nodejs.org/en/)
